@@ -734,7 +734,7 @@ color: #000;
     .product-right {
       flex-direction: column-reverse;
     }
-    .product-right .product__close-img {
+    .product-right .product_close-img {
       align-self: flex-end;
     }
     .tag-group {
